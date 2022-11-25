@@ -3,7 +3,7 @@
     "workflowRules": {
       "enabled": true,
       "minVulnerabilitySeverity": "LOW"
-    }
+    },
     "enableRenovate": true,
     "extends": ["config:base"]
   }
