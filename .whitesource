@@ -16,12 +16,12 @@
   },
   "issueSettings": {
     "minSeverityLevel": "LOW"
-  }
+  },
   "remediateSettings": {
     "workflowRules": {
       "enabled": true,
       "minVulnerabilitySeverity": "LOW"
     },
-	workflowRules.enabled: "true"	
+   "workflowRules.enabled": "true"	
   }
 }
