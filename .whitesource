@@ -7,7 +7,7 @@
   },
   "scanSettingsSAST": {
     "enableSAST": "true",
-    "enableRemediation": "false"
+    "enableRemediation": "false",
     "snippetSize": "10"
   },
   "checkRunSettings": {
@@ -18,9 +18,3 @@
     "minSeverityLevel": "LOW"
   }
 }
-
-   "remediateSettings": {
-    "workflowRules": {
-      "enabled": true,      
-    }
-  }
